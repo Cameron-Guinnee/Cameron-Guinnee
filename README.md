@@ -1,6 +1,6 @@
 # Hi, I'm Cameron 👋
 
-I build practical tools that solve real problems — from personal health trackers to personal finance dashboards.
+I build practical tools that solve real problems - from personal health trackers to personal finance dashboards.
 
 ---
 
