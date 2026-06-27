@@ -6,7 +6,7 @@ I build practical tools that solve real problems - from personal health trackers
 
 ## 🚀 Projects
 
-### 🏃 [Vitalog](https://github.com/Cameron-Guinnee/Vitalog)
+### 🏃 [Vitalog](https://github.com/Cameron-Guinnee/vitalog)
 A personal health tracking desktop app built with Vue 3 and Tauri that tracks food intake, calories, weight, exercise, sleep, fasting, water intake, and biometrics — with a freemium Free/Pro tier model.
 
 - Built with **Vue 3**, **TypeScript**, **PrimeVue**, **Chart.js**, and **Tauri 2** (Rust desktop shell)
@@ -15,7 +15,7 @@ A personal health tracking desktop app built with Vue 3 and Tauri that tracks fo
 - Dashboard with streak tracking, energy balance, fasting timer, sleep stats, and weight trends
 - Python data pipeline (`scripts/fdc_import/`) to seed the food database from USDA FDC
 
-### 🗓️ [dayplan](https://github.com/Cameron-Guinnee/dayplan)
+### 🗓️ [Dayplan](https://github.com/Cameron-Guinnee/dayplan)
 A day-planning web app that automatically schedules your tasks around fixed time blocks using an earliest-deadline-first algorithm, rendered on a visual daily timeline.
 
 - Built with **Go**, **chi** (router), **SQLite** (pure-Go, no CGo), **Vue 3**, **Vite**, and **Tailwind CSS**
@@ -23,7 +23,7 @@ A day-planning web app that automatically schedules your tasks around fixed time
 - REST API with clean separation between models, storage, scheduler, and HTTP handlers
 - Visual timeline with day-by-day navigation; unschedulable tasks surfaced in an amber overflow banner
 
-### 💰 [Ledgerline](https://github.com/Cameron-Guinnee/Ledgerline)
+### 💰 [Ledgerline](https://github.com/Cameron-Guinnee/ledgerline)
 A personal finance dashboard built with Streamlit that connects to Google Sheets to visualize, filter, and log transactions across a Ledger, a Portfolio, and a Net Worth overview.
 
 **[→ Live App](https://budget-tracker-hqzvmiazybvhhkjkv4pih8.streamlit.app/)**
